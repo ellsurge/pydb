@@ -1,5 +1,4 @@
 import random, string
-# data types
 
 VAR ='varchar(255)'
 TEXT = 'TEXT' 

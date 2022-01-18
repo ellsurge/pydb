@@ -1,7 +1,6 @@
 
 from operator import indexOf
 import mysql.connector
-from numpy import delete
 from utils import *
 
 
