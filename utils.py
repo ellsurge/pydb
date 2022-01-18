@@ -91,3 +91,4 @@ def log(message):
     if(mode == 'dev'):
         print('log: ')
         print(message)
+        
